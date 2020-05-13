@@ -1,4 +1,4 @@
-ssword Manager
+## Password Manager
 
 My implementation of a password manager. It uses RSA 4096-bit encryption and was written in python3
 
